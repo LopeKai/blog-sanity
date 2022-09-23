@@ -1,0 +1,24 @@
+.main {
+    margin: auto;
+    width: 750px;
+    max-width: cal(100vw - 50px);
+}
+
+.mainImage {
+    width: 100%;
+    margin: 50px 0;
+}
+
+.titleCurrent {
+    padding: 15px 0;
+    color: red;
+    border: 1px solid red;
+}
+
+.body p {
+    font-size: 24px;
+    text-indent: 50px;
+    line-height: 45px;
+    text-align: justify;
+    letter-spacing: 1.5px;
+}
